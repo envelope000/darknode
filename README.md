@@ -2,9 +2,9 @@
 
 <b>Repository under construction</b>
 
-cluster/ - START HERE - build your nodes and dispatcher using this branch
-darknode/ - setup your nodes and dispatcher with the software and point evolution to the associated branches
-
+cluster/ - START HERE - build your nodes and dispatcher using this branch<br>
+darknode/ - setup your nodes and dispatcher with the software and point evolution to the associated branches<br>
+<pre>
 cluster/
   esp8266/
     setup/
@@ -41,6 +41,6 @@ darknode/
     *boot.py
     *main.py
     evolve/
-    
+</pre>
   
   
